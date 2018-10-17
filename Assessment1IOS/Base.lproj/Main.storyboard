@@ -57,6 +57,7 @@
                     <connections>
                         <outlet property="TextField" destination="rL9-XT-wrg" id="XaB-jT-PQT"/>
                         <outlet property="convertedLabel" destination="sti-eM-1GW" id="iAe-rz-cjJ"/>
+                        <outlet property="doneButton" destination="NbN-9o-f6K" id="FgN-xI-5u0"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

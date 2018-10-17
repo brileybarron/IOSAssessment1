@@ -11,6 +11,7 @@ import UIKit
 class ViewController: UIViewController {
     @IBOutlet weak var convertedLabel: UILabel!
     
+    @IBOutlet weak var doneButton: UIButton!
     @IBOutlet weak var TextField: UITextField!
     
     @IBAction func DoneButtonTapped(_ sender: Any) {
